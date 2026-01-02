@@ -101,10 +101,9 @@ Proper data types for dates
 Clean table ready for analysis or dashboarding
 
 -Repository Structure
-├── data cleaning.sql   # SQL script with all cleaning steps
-├── README.md           # Project documentation
 
 
+Author
 
 Mostafa
 Aspiring Data Analyst | SQL | Data Cleaning | Data Analysis
