@@ -6,18 +6,18 @@ Problem Statement
 The raw layoffs dataset contained duplicate records, inconsistent text formatting, missing values, and incorrect data types, making it unreliable for analysis.
 The objective of this project was to clean and standardize the data using SQL, ensuring accuracy and consistency so it can be confidently used for analytical reporting and insights.
 
-Project Overview
+-Project Overview:
 
 This project demonstrates a complete data cleaning workflow using SQL on a layoffs dataset.
 All cleaning steps were executed directly in SQL, following best practices commonly used in real-world data analytics projects.
 
-Dataset Description
+-Dataset Description:
 
 Dataset: Layoffs data
 
 Structure: Single table (layoffs)
 
-Common Issues Identified:
+-Common Issues Identified:
 
 Duplicate rows
 
@@ -29,13 +29,13 @@ Incorrect date format
 
 Redundant columns
 
-Tools & Technologies
+-Tools & Technologies:
 
 SQL
 
 Techniques: CTEs, Window Functions, Data Standardization
 
-Data Cleaning Process
+-Data Cleaning Process
 1. Data Exploration
 
 Reviewed raw data using SELECT *
@@ -90,7 +90,7 @@ IS NULL
 
 Self joins for data enrichment
 
-Final Outcome
+-Final Outcome
 
 Duplicate-free dataset
 
@@ -100,11 +100,11 @@ Proper data types for dates
 
 Clean table ready for analysis or dashboarding
 
-Repository Structure
+-Repository Structure
 ├── data cleaning.sql   # SQL script with all cleaning steps
 ├── README.md           # Project documentation
 
-Author
+
 
 Mostafa
 Aspiring Data Analyst | SQL | Data Cleaning | Data Analysis
